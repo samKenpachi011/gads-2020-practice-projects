@@ -1,1 +1,1 @@
-# samk-gads-2020-practice-projects
+# Google Africa Developer Scholarship-2020-Cloud-Practice-Projects
