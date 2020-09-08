@@ -2,7 +2,7 @@
 
 ## Google Cloud Fundamentals: Getting Started with GKE
 
-##Objectives
+## Objectives
   1. Create a Kubernetes clusters.
   2. Create an nginx deployment.
   3. Exposed the application.
@@ -10,7 +10,7 @@
 
 #### Enable these API's "Kubernetes API", "Container Registry API" and Start the cloud shell.
 
-##Tasks
+## Tasks
 1.  Using the shell to confirm that the needed APIs are available and you can enable them:
    _-_ Check a list of services that you can enable in your project:
    
@@ -89,7 +89,7 @@
         kubectl scale deployment nginx --replicas 3
     ```		
 	
-14.  View the pods running to confirm if Kubernetes udpated:
+14. View the pods running to confirm if Kubernetes udpated:
 
     ```bash
         kubectl get pods
