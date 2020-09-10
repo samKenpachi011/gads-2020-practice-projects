@@ -268,7 +268,7 @@
 	
 ## Use shell redirection to connect to a Pod
 
-31.  Start an interactive bash shell in the nginx container.
+31. Start an interactive bash shell in the nginx container.
 
 	```bash
         kubectl exec -it new-nginx /bin/bash
@@ -287,7 +287,7 @@
 		apt-get install nano
     ```			
 	
-33.  Execute the following commands to switch to the static files directory and create a test.html file.
+33. Execute the following commands to switch to the static files directory and create a test.html file.
 
 	```bash
         cd /usr/share/nginx/html
