@@ -43,10 +43,10 @@
 ## “Translation” of 2-3 selected labs from Console instructions to 100% command line instructions.
 
   1. Google Cloud Fundamentals: Getting Started with GKE
-      - [Detailed](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab1.md)
+      - [Link](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab1.md)
   2. Working with Cloud Build
-      - [Detailed](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab2.md)
+      - [Link](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab2.md)
   3. Creating a GKE Cluster via Cloud Shell
-      - [Detailed](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab3.md)
+      - [Link](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab3.md)
   2. Upgrading Kubernetes Engine Clusters
-      - [Detailed](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab4.md)
+      - [Link](https://github.com/samKenpachi011/gads-2020-practice-projects/blob/master/translations/Lab4.md)
